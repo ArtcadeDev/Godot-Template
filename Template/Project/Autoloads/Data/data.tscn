@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://in2jslefhcox"]
+
+[ext_resource type="Script" path="res://Project/Autoloads/Data/data.gd" id="1_krece"]
+
+[node name="Data" type="Node"]
+script = ExtResource("1_krece")

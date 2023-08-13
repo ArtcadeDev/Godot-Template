@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ne65m7m744xc"]
+
+[ext_resource type="Script" path="res://Project/Autoloads/Sounds/sounds.gd" id="1_buri0"]
+
+[node name="Sounds" type="Node"]
+script = ExtResource("1_buri0")

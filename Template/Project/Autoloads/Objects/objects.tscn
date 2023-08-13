@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://crbp3s7f2aeua"]
+
+[ext_resource type="Script" path="res://Project/Autoloads/Objects/objects.gd" id="1_3bn77"]
+
+[node name="Objects" type="Node"]
+script = ExtResource("1_3bn77")
