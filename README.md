@@ -13,8 +13,7 @@ This template includes useful building blocks for your Godot projects:
 
 - ⚙️ Productivity-focused script utilities  
 - 🧰 Ready-to-use GDScript helpers  
-- 📁 Clean project structure to expand with your own systems  
-- 🛠️ Designed to be easily integrated into any Godot project
+- 📁 Clean project structure to expand with your own systems
 
 ---
 
