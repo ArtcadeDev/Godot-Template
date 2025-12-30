@@ -16,8 +16,6 @@ This template includes useful building blocks for your Godot projects:
 - 📁 Clean project structure to expand with your own systems  
 - 🛠️ Designed to be easily integrated into any Godot project
 
-> *Add more details here as the template grows (e.g., auto-loading utilities, input managers, UI helpers, data handling scripts, etc.).*
-
 ---
 
 ## 📦 Getting Started
